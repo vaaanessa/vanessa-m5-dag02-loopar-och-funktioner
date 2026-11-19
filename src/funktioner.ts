@@ -104,3 +104,7 @@ export const ärJämnt = (n: number): boolean => {
   const total: boolean = n % 2 === 0;
   return total;
 };
+
+/// Med function skriver jag ordet function före namnet.
+// En pilfunktion skriver jag här med const och =>.
+// Båda varianterna kan ta emot ett tal och ge tillbaka ett svar.
